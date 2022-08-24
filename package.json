@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/homayounfh/simple-authentication-express-js#readme",
   "devDependencies": {
+    "@types/node": "^18.7.13",
     "nodemon": "^2.0.19"
   }
 }
